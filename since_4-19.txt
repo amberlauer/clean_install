@@ -1,0 +1,4 @@
+cheese
+software common properties
+timeshift
+btrfs-tools
